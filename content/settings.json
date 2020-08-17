@@ -1,15 +1,14 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
-  "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
+  "store_id": 1149,
+  "name": "sngames10",
+  "domain": "sngames10.netlify.app",
+  "short_name": "sngames10",
+  "description": "36.917.083/0001-25 Sn Games 10 (Vinicius Dante de Deus)",
+  "primary_color": "#46459b",
+  "secondary_color": "#eeeeee",
   "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "_"
   },
   "logo": "/img/uploads/logo.png",
   "mini_logo": "",
