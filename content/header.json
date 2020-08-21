@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Referência no mercado de games há dois anos",
+    "link": "/promotion",
+    "background": "#6027b4",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
