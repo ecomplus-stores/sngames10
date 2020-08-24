@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "Referência no mercado de games há dois anos",
-    "link": "/promotion",
+    "link": "https://www.instagram.com/sngames10/",
     "background": "#6027b4",
     "color": "#ffffff"
   },
@@ -13,7 +13,7 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
