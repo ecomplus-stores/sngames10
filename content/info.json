@@ -1,18 +1,20 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": " Frete grátis*  Vídeo games  Capitais e regiões metropolitanas. Demais regiões, consulte whatsapp",
+    "link": "https://www.instagram.com/sngames10/"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": " Cartão, Boleto ou transferência :  1% OFF no boleto ou transferência"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": " Envio imediato  Todos os produtos estão no Brasil. Enviamos no dia útil seguinte",
+    "link": ""
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": " Compra Protegida  Boleto, transferência ou cartão de crédito via Pag seguro ou Paypal"
   }
 }
