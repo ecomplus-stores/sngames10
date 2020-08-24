@@ -1,22 +1,23 @@
 {
-  "store_id": 1149,
-  "name": "sngames10",
   "domain": "sngames10.netlify.app",
-  "short_name": "sngames10",
-  "description": "36.917.083/0001-25 Sn Games 10 (Vinicius Dante de Deus)",
+  "currency_symbol": "R$",
   "primary_color": "#46459b",
-  "secondary_color": "#eeeeee",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-1872641885-1578325334-405ba0b621a4ed4f86e85daf6656ca841578325335-320-0.png",
+  "name": "sngames10",
+  "short_name": "sngames10",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo-1872641885-1578325334-405ba0b621a4ed4f86e85daf6656ca841578325335-320-0.png",
+  "country_code": "BR",
+  "secondary_color": "#2ecc71",
+  "icon": "/img/uploads/logo-1872641885-1578325334-405ba0b621a4ed4f86e85daf6656ca841578325335-320-0.png",
+  "store_id": 1149,
+  "description": "36.917.083/0001-25 Sn Games 10 (Vinicius Dante de Deus)",
+  "large_icon": "/img/uploads/logo-1872641885-1578325334-405ba0b621a4ed4f86e85daf6656ca841578325335-320-0.png"
 }
