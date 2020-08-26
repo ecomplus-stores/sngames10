@@ -16,6 +16,9 @@ main {
         &__search-btn {
             color: $primary;
         }
+        &__logo{
+            width: 100%;
+        }
     }
 
     #cart-count {
@@ -59,8 +62,25 @@ main {
         padding: 0;
         width: 100%;
         background-color: $primary;
-        .html-clearfix {
+              .html-clearfix {
             margin-top: 0;
         }
     }
+
+    @media (min-width: 767px) {
+        .header {
+          top: 0px;
+          z-index: 900;
+        }
+        .custom-html:first-child {
+          position: sticky;
+          top: 86px;
+          z-index: 900;
+          
+          
+        }
+    }
+
+   
+        
 }
