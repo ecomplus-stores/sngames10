@@ -3,5 +3,10 @@
   "meta_title": "Contato",
   "meta_description": "Contato",
   "body": "Atendimento - Segunda a sexta, 9 às 17. Sábado 9 às 12\n\nRua bari, 191, belo horizonte, MG - Cep 31814-350\n\n[5531973659516](https://wa.me/5531973659516)\n\n[31-7365-9516](tel:31-7365-9516)\n\n[sac@sngames10.online](mailto:sac@sngames10.online)",
-  "sections": []
+  "sections": [
+    {
+      "type": "custom-html",
+      "html": "<ul class=\"nav-desktop-list\">\n\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link selected\" href=\"/\">Início</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/contato/\">Contato</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"https://sngames10.online/politica-de-trocas-e-devolucoes/\">Política de Trocas e\n            Devoluções</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"https://sngames10.online/prazos-de-entrega/\">Prazos de entrega</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"https://sngames10.online/politica-de-privacidade-e-seguranca/\">Política de\n            privacidade e segurança</a>\n    </li>\n</ul>"
+    }
+  ]
 }
