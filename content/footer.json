@@ -5,7 +5,7 @@
   },
   "links_1": {
     "list_pages": false,
-    "title": "Páginas",
+    "title": "Departamentos",
     "list": [
       {
         "text": "Início",
@@ -31,11 +31,15 @@
   },
   "links_2": {
     "list_categories": false,
-    "title": "",
-    "list": []
+    "title": "Permaneça Conectado! ",
+    "list": [
+      {
+        "url": "https://www.instagram.com/sngames10/"
+      }
+    ]
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Atendimento de segunda a sexta, 9 às 17",
     "phone_wpp": true,
     "socials": true,
     "email": true,
