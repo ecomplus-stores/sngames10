@@ -16,8 +16,8 @@
       "collection_id": null
     },
     {
-      "type": "custom-html",
-      "html": "<h1> Somos referência </h1>\n<br>\n<p> São mais de 70 mil seguidores e centenas de depoimentos de clientes felizes. Acompanhe em @sngames10 </p>\n\n"
+      "type": "custom-content",
+      "markdown": "## Somos referência\n\nSão mais de 70 mil seguidores e centenas de depoimentos de clientes felizes. Acompanhe em @sngames10"
     }
   ]
 }
