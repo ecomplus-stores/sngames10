@@ -7,6 +7,17 @@
       "html": "<ul class=\"nav-desktop-list\">\n\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link selected\" href=\"/\">Início</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/pages/contato\">Contato</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/pages/trocas\">Política de Trocas e\n            Devoluções</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/pages/entrega\">Prazos de entrega</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/pages/privacidade\">Política de\n            privacidade e segurança</a>\n    </li>\n</ul>"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2020-08-26T20:16:09.596Z",
+          "end": "2020-08-26T20:16:09.662Z",
+          "img": "/img/uploads/copia-de-sn-games-10.png"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
