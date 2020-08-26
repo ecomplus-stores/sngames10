@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "custom-html",
-      "html": "<ul class=\"nav-desktop-list\">\n\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link selected\" href=\"/\">Início</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/contato/\">Contato</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"https://sngames10.online/politica-de-trocas-e-devolucoes/\">Política de Trocas e\n            Devoluções</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"https://sngames10.online/prazos-de-entrega/\">Prazos de entrega</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"https://sngames10.online/politica-de-privacidade-e-seguranca/\">Política de\n            privacidade e segurança</a>\n    </li>\n</ul>"
+      "html": "<ul class=\"nav-desktop-list\">\n\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link selected\" href=\"/\">Início</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/pages/contato\">Contato</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/pages/trocas\">Política de Trocas e\n            Devoluções</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/pages/entrega\">Prazos de entrega</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/pages/privacidade\">Política de\n            privacidade e segurança</a>\n    </li>\n</ul>"
     },
     {
       "type": "info-bar",
@@ -16,8 +16,37 @@
       "collection_id": null
     },
     {
-      "type": "custom-html",
-      "html": "<h1> Somos referência </h1>\n<br>\n<p> São mais de 70 mil seguidores e centenas de depoimentos de clientes felizes. Acompanhe em @sngames10 </p>\n\n"
+      "type": "custom-content",
+      "markdown": "## Somos referência\n\nSão mais de 70 mil seguidores e centenas de depoimentos de clientes felizes. Acompanhe em @sngames10"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/117312465_166320621656741_4498473446861409644_n.jpg",
+          "link": "https://www.instagram.com/p/CD1s9kHpUO6/"
+        },
+        {
+          "img": "/img/uploads/117222388_808816346523937_5657108891558467875_n.jpg",
+          "link": "https://www.instagram.com/p/CDwFMnSpAoP/"
+        },
+        {
+          "img": "/img/uploads/92182162_154475382571626_6451620260732657578_n.jpg",
+          "link": "https://www.instagram.com/p/B-t8yuzpZbN/"
+        },
+        {
+          "img": "/img/uploads/89269102_584574352401505_2450605938362944331_n.jpg",
+          "link": "https://www.instagram.com/p/B9orsm6pXyW/"
+        },
+        {
+          "img": "/img/uploads/87828821_142025623952237_3324753381682630861_n.jpg",
+          "link": "https://www.instagram.com/p/B9O4l2oJTUy/"
+        },
+        {
+          "img": "/img/uploads/83727453_534893567377805_585223121740445152_n.jpg",
+          "link": "https://www.instagram.com/p/B8ch6f-J9kH/"
+        }
+      ]
     }
   ]
 }
