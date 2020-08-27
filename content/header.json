@@ -6,14 +6,27 @@
     "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Trocas e Devoluções",
+        "link": "/pages/trocas"
+      },
+      {
+        "link": "/pages/entrega",
+        "title": "Prazos de entrega"
+      },
+      {
+        "link": "/pages/privacidade",
+        "title": "Privacidade e segurança"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
     "featured": [],
     "random": 0,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true
 }
