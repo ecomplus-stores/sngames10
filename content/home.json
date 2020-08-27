@@ -32,7 +32,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<iframe width=\"315\" height=\"560\" src=\"https://www.youtube.com/embed/LIfXYdPqOlI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      "html": "<div class=\"banners-grid my-3 my-md-4 my-lg-5\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-12 col-lg-6 mb-3 mb-lg-0\">\n        <h2>Você vai amar ;)</h2>\n        <iframe width=\"315\" height=\"560\" src=\"https://www.youtube.com/embed/LIfXYdPqOlI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n      </div>\n      <div class=\"col-12 col-lg-6 mb-3 mb-lg-0\">\n        <h2>Somos referência</h2>\n        <p>São mais de 70 mil seguidores e centenas de depoimentos de clientes felizes. Acompanhe em <a href=\"https://www.instagram.com/sngames10/\">@sngames10</a></p>\n      </div>\n    </div>\n  </div>\n</div>\n"
     },
     {
       "type": "custom-content",
