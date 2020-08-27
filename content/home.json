@@ -27,13 +27,8 @@
       "collection_id": null
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/1.png",
-          "link": "https://www.instagram.com/sngames10/"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/1.png"
     },
     {
       "type": "custom-content",
