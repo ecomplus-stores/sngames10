@@ -3,10 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "custom-html",
-      "html": "<ul class=\"nav-desktop-list\">\n\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link selected\" href=\"/\">Início</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/pages/contato\">Contato</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/pages/trocas\">Política de Trocas e\n            Devoluções</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/pages/entrega\">Prazos de entrega</a>\n    </li>\n    <li class=\"nav-item nav-item-desktop\">\n        <a class=\"nav-list-link \" href=\"/pages/privacidade\">Política de\n            privacidade e segurança</a>\n    </li>\n</ul>"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
