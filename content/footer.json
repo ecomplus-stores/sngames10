@@ -4,17 +4,38 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "list_pages": false,
+    "title": "Departamentos",
+    "list": [
+      {
+        "text": "Início",
+        "url": "/"
+      },
+      {
+        "text": "Contato",
+        "url": "/pages/contato"
+      },
+      {
+        "text": "Trocas e Devoluções",
+        "url": "/pages/trocas"
+      },
+      {
+        "text": "Prazo de Entrega",
+        "url": "/pages/entrega"
+      },
+      {
+        "text": "Política de Privacidade",
+        "url": "/pages/privacidade"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categorias",
+    "title": "",
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Atendimento de segunda a sexta, 9 às 17",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -27,20 +48,22 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
-    "aura": false,
+    "aura": true,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
+    "diners": true,
     "mais": false,
-    "itau": true
+    "amex": true,
+    "itau": false
   },
   "credits": ""
 }
