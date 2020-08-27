@@ -27,10 +27,6 @@
       "collection_id": null
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/1.png"
-    },
-    {
       "type": "custom-content",
       "markdown": "## Somos referência\n\nSão mais de 70 mil seguidores e centenas de depoimentos de clientes felizes. Acompanhe em @sngames10"
     },
@@ -60,6 +56,17 @@
         {
           "img": "/img/uploads/83727453_534893567377805_585223121740445152_n.jpg",
           "link": "https://www.instagram.com/p/B8ch6f-J9kH/"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1.png"
+        },
+        {
+          "img": "/img/uploads/2.png"
         }
       ]
     }
