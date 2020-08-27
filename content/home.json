@@ -27,6 +27,19 @@
       "collection_id": null
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1.png",
+          "link": "https://www.instagram.com/sngames10/"
+        },
+        {
+          "img": "/img/uploads/2.png",
+          "link": "https://www.instagram.com/sngames10/"
+        }
+      ]
+    },
+    {
       "type": "custom-content",
       "markdown": "## Somos referência\n\nSão mais de 70 mil seguidores e centenas de depoimentos de clientes felizes. Acompanhe em @sngames10"
     },
