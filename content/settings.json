@@ -1,13 +1,13 @@
 {
   "domain": "sngames10.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#46459b",
+  "primary_color": "#39393c",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo2.png",
+  "logo": "/img/uploads/logo-1872641885-1578325334-405ba0b621a4ed4f86e85daf6656ca841578325335-320-0.png",
   "name": "sngames10",
   "short_name": "sngames10",
   "lang": "pt_br",
@@ -15,9 +15,9 @@
   "mini_logo": "",
   "favicon": "/img/uploads/icone.png",
   "country_code": "BR",
-  "secondary_color": "#c4c4c4",
+  "secondary_color": "#ffffff",
   "icon": "/img/uploads/logo-1872641885-1578325334-405ba0b621a4ed4f86e85daf6656ca841578325335-320-0.png",
   "store_id": 1149,
-  "description": "36.917.083/0001-25 Sn Games 10 (Vinicius Dante de Deus)",
+  "description": "Referência no mercado de games retrôs",
   "large_icon": "/img/uploads/logo-1872641885-1578325334-405ba0b621a4ed4f86e85daf6656ca841578325335-320-0.png"
 }
