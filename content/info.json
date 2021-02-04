@@ -6,7 +6,7 @@
   },
   "installments": {
     "show": true,
-    "text": "1% OFF no boleto ou transferência."
+    "text": "6% OFF via pix ou transferência bancária"
   },
   "exchange": {
     "show": true,
@@ -15,6 +15,6 @@
   },
   "promo": {
     "show": true,
-    "text": " Compra Protegida:  Boleto, transferência ou cartão de crédito via Pag seguro ou Paypal."
+    "text": " Compra Protegida:  Intermediada e garantida pelo pag seguro, mercado pago ou pagar-me"
   }
 }
