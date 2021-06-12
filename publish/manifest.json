@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.573ea2ad158c9851c5149ae913c32987.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.4323b578ebab80480dfbc13b25149cb0.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.8657914b5097f2e171da783bd0604d56.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.5dd43574ab569fd566cc5067d65594da.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.37ed102d1f6b2db16a9d57cf7184fe52.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "sngames10",
+  "short_name": "sngames10",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Referência no mercado de games retrôs",
+  "background_color": "#ffffff",
+  "theme_color": "#39393c"
+}
